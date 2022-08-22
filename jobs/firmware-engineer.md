@@ -8,21 +8,6 @@
 - 对固件进行功能与功耗的测试，确保性能达到设计要求
 - 编写项目相关接口文档与技术文档
 
-## 技术堆栈
-
-本司倾向于使用开源工具链进行开发。
-
-- 本司主要使用`c`语言进行固件开发。
-- 本司固件开发主要使用以下几种工具链/IDE
-
-  1. `armgcc`+`cmake`+`openOCD`+`GDB`
-  2. `SEGGER Embedded Studio`
-  3. `keil`
-- 本司使用`git`进行协作开发与版本管理。
-- 本司使用`markdown`与`reStructuredText`编写技术文档。
-- 本司使用`astyle`与`clang-format`规范代码风格。
-- 本司使用`KiCAD`进行PCB设计。
-
 ## 岗位要求
 
 #### 基础要求
